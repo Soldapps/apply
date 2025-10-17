@@ -147,7 +147,7 @@ The Solbase MVP will **not**:
 Please also provide the GitHub accounts of all team members:
 
 - [Damilola Olayiwola](https://github.com/Mozihla)
-- [Emmanuel P. Charles](https://github.com/emmanuelpcharles)
+- [Emmanuel P. Charles](https://github.com/Pcharlesme)
 
 ### Team's experience
 
